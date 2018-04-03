@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.10.13 19:46:46.531.cpp,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\File1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll test\File1.cpp</Transaction>
+    <Transaction>2010.10.13 19:46:46.953.cpp,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\Unit1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll test\Unit1.cpp</Transaction>
+    <Transaction>2010.10.13 19:46:46.953.h,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\Unit1.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll test\Unit1.h</Transaction>
+    <Transaction>2010.10.13 19:46:46.953.dfm,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll test\Unit1.dfm</Transaction>
+    <Transaction>2010.10.13 19:46:47.390.cbproj,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\Project1.cbproj=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll test\Project1.cbproj</Transaction>
+    <Transaction>2010.10.16 19:05:13.187.h,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll test\File2.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll test\Def.h</Transaction>
+  </Transactions>
+</BorlandProject>
